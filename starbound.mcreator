@@ -1,20 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "Hidoesthiswork",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hidoesthiswork"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.starbound.hidoesthiswork": "Hidoesthiswork"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
