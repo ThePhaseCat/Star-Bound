@@ -1,1 +1,6 @@
-{}
+{
+  "block.starbound.moon_dust": "Moon Dust",
+  "subtitles.moon_dust_broken": "Block broken",
+  "subtitles.moon_dust_placing": "Block placed",
+  "subtitles.moon_dust_walking/running": "Footsteps"
+}

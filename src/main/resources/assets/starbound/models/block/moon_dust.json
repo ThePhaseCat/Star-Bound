@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "starbound:blocks/moon_dust",
+    "up": "starbound:blocks/moon_dust",
+    "north": "starbound:blocks/moon_dust",
+    "east": "starbound:blocks/moon_dust",
+    "south": "starbound:blocks/moon_dust",
+    "west": "starbound:blocks/moon_dust",
+    "particle": "starbound:blocks/moon_dust"
+  }
+}

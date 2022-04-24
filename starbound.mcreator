@@ -1,9 +1,23 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "MoonDust",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moon_dust"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.starbound.moon_dust": "Moon Dust",
+      "subtitles.moon_dust_broken": "Block broken",
+      "subtitles.moon_dust_placing": "Block placed",
+      "subtitles.moon_dust_walking/running": "Footsteps"
+    }
   },
   "foldersRoot": {
     "name": "~",

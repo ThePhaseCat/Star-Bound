@@ -1,0 +1,36 @@
+{
+  "moon_dust_placing": {
+    "category": "block",
+    "subtitle": "subtitles.moon_dust_placing",
+    "sounds": [
+      {
+        "name": "starbound:sf-jump_sand1",
+        "stream": false
+      }
+    ]
+  },
+  "moon_dust_broken": {
+    "category": "block",
+    "subtitle": "subtitles.moon_dust_broken",
+    "sounds": [
+      {
+        "name": "starbound:sf-jump_sand1",
+        "stream": false
+      }
+    ]
+  },
+  "moon_dust_walking/running": {
+    "category": "block",
+    "subtitle": "subtitles.moon_dust_walking/running",
+    "sounds": [
+      {
+        "name": "starbound:sf-footsteps_sand_wet2",
+        "stream": false
+      },
+      {
+        "name": "starbound:sf-run_sand1",
+        "stream": false
+      }
+    ]
+  }
+}
